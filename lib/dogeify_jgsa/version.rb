@@ -1,3 +1,3 @@
-module DogeifyJgsa
-  VERSION = "0.1.0"
+class DogeifyJgsa
+  VERSION = "1.0.0"
 end
